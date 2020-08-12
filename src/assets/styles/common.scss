@@ -1,0 +1,15 @@
+:root {
+    --main-bg: #021A2A;
+    --border-color: #164E73;
+    --right-answer: #37d84c;
+    --wrong-answer: #e82828;
+    --border-radius: 5px;
+}
+
+
+body {
+    background-color: var(--main-bg);
+    color: #fff;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 18px;
+}
